@@ -1,0 +1,17 @@
+http:
+  port: "8081"
+  
+sfdc:
+   username: "amrutha@techbulls.com"
+   password: "Pvny@5262"
+   token: "9738uYec5wUDLsBADAON5JNEd"
+   
+file:
+  accountsDir: "C:/Users/ADMIN/Downloads/APDevFundamentals4.4_studentFiles_SP_27jun2022/resources"
+  
+db:
+  host: "mudb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"
